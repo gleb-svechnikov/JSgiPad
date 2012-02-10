@@ -1,10 +1,13 @@
-html, body {
+html{
+	background: #F2F2F2;
+}
+body {
     margin:0;
     padding:0;
     font-family: "Lucida Grande", Verdana;
     font-size: 0.9em;
     text-align: center;
-    background-color:#F2F2F2;
+    background-color:#000;
 }
 
 input, select {
